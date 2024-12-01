@@ -1,23 +1,5 @@
-## Simple Voice Chat - A working voice chat in Minecraft!
+## The Cloud Client Experience
+### Cloud Client is a free and open-source 1.7.10, 1.8.9 and 1.12.2 PvP Client that comes in the form of a mod.
 
-### Features
-    Push to talk
-    Voice activation
-    Proximity voice chat
-    Password protected group chats
-    Opus codec
-    RNNoise recurrent neural network noise suppression
-    OpenAL audio
-    Cross compatibility between Fabric, NeoForge, Forge, Quilt, Bukkit, Spigot and Paper
-    Support for Velocity, BungeeCord and Waterfall
-    Compatibility with ModMenu (Use ClothConfig for a better configuration UI)
-    Configurable push to talk key
-    Microphone test playback
-    Configurable voice distance
-    Whispering
-    Individual player volume adjustment
-    Microphone amplification
-    3D sound
-    AES encryption
-    Audio recording with separate audio tracks
-    A powerful API
+### The Cloud Client Experience is a modpack that was made to create a more "standard" PvP client feel, and make it a more viable alternative for other clients like Lunar Client, Badlion Client, Feather Client, etc.
+### Cloud Client's Source Code (development branch, alpha):
